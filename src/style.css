@@ -20,11 +20,6 @@ body {
   padding-right: 50px;
 }
 
-.div {
-  display: flex;
-  align-items: center;
-}
-
 .nav {
   margin-left: auto;
 }
